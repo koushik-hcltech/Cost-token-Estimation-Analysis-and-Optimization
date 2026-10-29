@@ -1,0 +1,7 @@
+{
+  "cost_per_query": 0.011414615625,
+  "quality": 0.9375,
+  "budget": 0.0135,
+  "quality_floor": 0.9,
+  "passed": true
+}
